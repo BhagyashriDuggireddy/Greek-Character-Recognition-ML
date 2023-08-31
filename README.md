@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This research paper focuses on the domain of handwritten Greek character recognition, specifically addressing the identification and classification of diverse Greek characters. The primary objective is to conduct a comprehensive performance evaluation and comparison of three distinct machine learning algorithms: Convolutional Neural Network (CNN), Support Vector Machine (SVM), and K-Nearest Neighbors (KNN) classifier.
+This research paper focuses on the domain of Performance Evaluation and Comparative Analysis of Machine Learning Models for Handwritten Greek Character Recognition, specifically addressing the identification and classification of diverse Greek characters. The primary objective is to conduct a comprehensive performance evaluation and comparison of three distinct machine learning algorithms: Convolutional Neural Network (CNN), Support Vector Machine (SVM), and K-Nearest Neighbors (KNN) classifier.
 
 ## Dataset
 
