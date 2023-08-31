@@ -1,4 +1,4 @@
-# Greek-Character-Recognition-ML
+# Performance-Evaluation-and-Comparative-Analysis-of-Machine-Learning-Models-for-Handwritten-Greek-Character-Recognition
 
 ## Introduction
 
