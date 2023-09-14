@@ -16,7 +16,7 @@ Subsequently, we delved into the realm of Support Vector Machine (SVM), a well-e
 
 ## Performance Evaluation
 
-Integral to our methodology was the rigorous evaluation of the algorithms' performance. Each model underwent comprehensive assessments on both validation and test datasets. Notably, the SVM and KNN models provided confidence scores, offering insights into the models' certainty in their predictions and enhancing transparency in their decision-making processes.
+Integral to our methodology was the rigorous evaluation of the algorithms' performance. Each model underwent comprehensive assessments on both validation and test datasets. Notably, the CNN,SVM and KNN models provided confidence scores, offering insights into the models' certainty in their predictions and enhancing transparency in their decision-making processes.
 
 ## Results
 
